@@ -13,7 +13,7 @@ class Dog
   end
 end
 
-fido = Dog.new_dog
+fido = Dog.new
 
 fido.name
 
